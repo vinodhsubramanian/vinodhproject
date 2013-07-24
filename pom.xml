@@ -4,7 +4,7 @@
   <artifactId>CiscoMavenProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>CiscoMavenProject</name>
-  <description>CiscoMavenProjectssssssssss</description>
+  <description>CiscoMavenProject</description>
   
    <build>
    <plugins>
